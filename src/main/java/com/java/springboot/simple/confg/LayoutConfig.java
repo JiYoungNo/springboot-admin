@@ -5,10 +5,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * ·¹ÀÌ¾Æ¿ô ¼³Á¤ ºó µî·Ï
- * @date : 2020-11-16 ¿ÀÈÄ 2:42
+ * thymeleaf ë ˆì´ì•„ì›ƒ ì„¤ì • ê°ì²´
  * @author : JiYoung
-**/
+ **/
 
 @Configuration
 public class LayoutConfig {

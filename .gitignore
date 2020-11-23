@@ -2,3 +2,5 @@
 /.gradle/
 /build/
 /build/classes/java/main/
+.idea/
+log.config.path_IS_UNDEFINED/

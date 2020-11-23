@@ -1,5 +1,7 @@
 package com.java.springboot.simple.web;
 
+import com.java.springboot.simple.advice.exeption.CustomException;
+import com.java.springboot.simple.web.code.Code;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
