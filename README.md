@@ -1,9 +1,6 @@
 ## Admin Page Sample
-using bootstrap
+bootstrap
 https://startbootstrap.com/theme/sb-admin-2 
-
-using spring boot '2.3.5.RELEASE'
-
-using Gradle 6.3
-
-using thymeleaf
+spring boot '2.3.5.RELEASE'
+Gradle 6.3
+thymeleaf
